@@ -1,5 +1,4 @@
 <table align="center" style="border-collapse: collapse; width: 640px;">
-  <!-- Ряд с виджетами -->
   <tr>
     <td style="vertical-align: top; text-align: center;">
       <img 
