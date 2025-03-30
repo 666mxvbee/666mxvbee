@@ -1,13 +1,4 @@
 <table align="center" style="border-collapse: collapse; width: 640px;">
-  <!-- Ряд с гифкой -->
-  <tr>
-    <td colspan="2">
-      <img 
-        src="https://i.pinimg.com/originals/ce/32/ac/ce32acad708dcd74eff4872573c04d4c.gif" 
-        alt="Animated Banner" 
-        style="display: block; margin: auto; width: 640px; height: auto;">
-    </td>
-  </tr>
   <!-- Ряд с оставшимися виджетами -->
   <tr>
     <td style="vertical-align: top; text-align: center;">
