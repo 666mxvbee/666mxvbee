@@ -12,7 +12,7 @@
     <td>
       <div style="background-color: #0d1117; padding: 20px; border-radius: 8px;">
         <p>
-          <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=666mxvbee&" alt="666mxvbee" />
+          <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=666mxvbee&theme=github_dark" alt="666mxvbee" height="150" />
         </p>
       </div>
     </td>
