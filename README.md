@@ -1,29 +1,26 @@
-
-<table>
- 
-
+<table align="center" style="border-collapse: collapse; width: 640px;">
+  <!-- Ряд с гифкой -->
   <tr>
- 
-
-    <td align="center">
- 
-
-      <img height="300" src="https://i.pinimg.com/originals/ce/32/ac/ce32acad708dcd74eff4872573c04d4c.gif" />
- 
-
+    <td colspan="2">
+      <img 
+        src="https://i.pinimg.com/originals/ce/32/ac/ce32acad708dcd74eff4872573c04d4c.gif" 
+        alt="Animated Banner" 
+        style="display: block; margin: auto; width: 640px; height: auto;">
     </td>
- 
-
-    <td align="center">
- 
-
-      <img height="300" src="https://github-readme-stats.vercel.app/api/top-langs?username=666mxvbee&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=100&theme=github_dark&hide_border=false&order=2" alt="languages graph" />
- 
-
-    </td>
- 
-
   </tr>
- 
-
+  <!-- Ряд с оставшимися виджетами -->
+  <tr>
+    <td style="vertical-align: top; text-align: center;">
+      <img 
+        src="https://github-readme-streak-stats.herokuapp.com/?user=666mxvbee&theme=blue-green&hide_border=false" 
+        alt="Streak Stats" 
+        style="display: block; margin: auto;">
+    </td>
+    <td style="vertical-align: top; text-align: center;">
+      <img 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=666mxvbee&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact" 
+        alt="Top Languages" 
+        style="display: block; margin: auto;">
+    </td>
+  </tr>
 </table>
