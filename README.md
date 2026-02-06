@@ -1,20 +1,2 @@
-<table align="center">
-  <tr>
-    <td align="center" valign="top">
-      <img
-        src="https://github-readme-streak-stats.herokuapp.com/?user=666mxvbee&theme=blue-green&hide_border=false"
-        alt="Streak Stats"
-        width="320"
-        height="150"
-      />
-    </td>
-    <td align="center" valign="top">
-      <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=666mxvbee&theme=blue-green&layout=compact&cache_seconds=21600&v=1"
-        alt="Top Languages"
-        width="320"
-        height="150"
-      />
-    </td>
-  </tr>
-</table>
+[![GitHub Streak](https://github-streak-stats-ruby.vercel.app/?user=666mxvbee&theme=dark&hide_border=true&border_radius=0&locale=en&short_numbers=true&mode=daily&disable_animations=false&card_width=466&card_height=194)](https://nice-readme.vercel.app/streak-stats)
+[![Most used languages](https://helio-github-stats.vercel.app/api/top-langs?username=666mxvbee&layout=compact&stats_format=percentages&theme=dark&hide_border=true&border_radius=0&card_width=466&locale=pt-br&custom_title=Most+used+languages&langs_count=10)](https://nice-readme.vercel.app/top-langs)
